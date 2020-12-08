@@ -2,9 +2,6 @@
 label: Theme configuration
 hide_body: true
 fields:
-- type: text
-  name: site_name
-  label: Site name
 - type: textarea
   name: site_description
   label: Site description
