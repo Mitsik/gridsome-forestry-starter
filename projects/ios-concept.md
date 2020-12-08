@@ -10,3 +10,7 @@ project_fg_color: ''
 
 ---
 ![](/uploads/markus-spiske-516263-unsplash.jpg)
+
+Another picture
+
+![](/uploads/cody-davis-253925-unsplash.jpg)
